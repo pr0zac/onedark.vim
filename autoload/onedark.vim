@@ -11,7 +11,7 @@ let s:colors = {
       \ "blue": get(s:overrides, "blue", { "gui": "#61AFEF", "cterm": "39", "cterm16": "4" }),
       \ "purple": get(s:overrides, "purple", { "gui": "#C678DD", "cterm": "170", "cterm16": "5" }),
       \ "cyan": get(s:overrides, "cyan", { "gui": "#56B6C2", "cterm": "38", "cterm16": "6" }),
-      \ "white": get(s:overrides, "white", { "gui": "#C5C8C6", "cterm": "251", "cterm16": "7" }),
+      \ "white": get(s:overrides, "white", { "gui": "#D7D9D9", "cterm": "251", "cterm16": "7" }),
       \ "black": get(s:overrides, "black", { "gui": "#161719", "cterm": "234", "cterm16": "0" }),
       \ "foreground": get(s:overrides, "foreground", { "gui": "#ABB2BF", "cterm": "145", "cterm16": "NONE" }),
       \ "background": get(s:overrides, "background", { "gui": "#282C34", "cterm": "235", "cterm16": "NONE" }),
